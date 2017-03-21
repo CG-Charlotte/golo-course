@@ -8,6 +8,6 @@ projects:
   golo:
    root: src
    runner:
-    name: cgcharlotte/golo-runner
-    version: latest
+    name: codingame/java-maven3-junit4-runner
+    version: 1.1.1-java-8
 
